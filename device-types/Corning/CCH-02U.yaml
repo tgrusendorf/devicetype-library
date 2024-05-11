@@ -1,0 +1,18 @@
+---
+manufacturer: Corning
+model: CCH-02U
+slug: corning-cch-02u
+u_height: 2
+is_full_depth: false
+subdevice_role: parent
+airflow: passive
+comments: Closet Connector Housing (CCH)  Two rack unit, holds four CCH connector panels
+module-bays:
+  - name: A
+    position: A
+  - name: B
+    position: B
+  - name: C
+    position: C
+  - name: D
+    position: D
