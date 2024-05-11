@@ -1,0 +1,34 @@
+---
+manufacturer: Corning
+model: EDC-12P-NH
+slug: corning-edc-12p-nh
+u_height: 0
+is_full_depth: false
+subdevice_role: parent
+airflow: passive
+comments: Environmental Distribution Center (EDC), holds 12 CCH connector panels, Gray, No Holes
+module-bays:
+  - name: A
+    position: A
+  - name: B
+    position: B
+  - name: C
+    position: C
+  - name: D
+    position: D
+  - name: E
+    position: E
+  - name: F
+    position: F
+  - name: G
+    position: G
+  - name: H
+    position: H
+  - name: I
+    position: I
+  - name: J
+    position: J
+  - name: K
+    position: K
+  - name: L
+    position: L
